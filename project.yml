@@ -10,4 +10,4 @@ packages:
           timeout: 5000
           memory: 256
 environment:
-  DATABASE_URL: ${DATABASE_URL}
+  DATABASE_URL: mongodb+srv://doadmin:9382Y06H7vaPqQ5L@db-mongodb-jamstack-db-ffd4a096.mongo.ondigitalocean.com/admin?tls=true&authSource=admin&replicaSet=db-mongodb-jamstack-db
